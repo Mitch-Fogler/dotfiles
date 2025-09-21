@@ -7,6 +7,4 @@ https://github.com/sejjy/mechabar.git
 https://github.com/vinceliuice/Orchis-theme.git
 
 
-waypaper
-hyprpaper
-hyprlock
+sudo pacman -S hyprland waypaper hyprpaper hyprlock ttf-jetbrains-mono-nerd
